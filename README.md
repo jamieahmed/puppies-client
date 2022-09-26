@@ -1,5 +1,5 @@
 ## Screenshots
-![Puppies]()
+![Puppies](https://i.imgur.com/yXuusIz.png)
 
 ## Getting Started:
 - [Deployed App](https://eri-puppies.netlify.app/)
